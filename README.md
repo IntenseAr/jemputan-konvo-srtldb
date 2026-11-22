@@ -1,1 +1,0 @@
-# jemputan-konvo-srtldb
